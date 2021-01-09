@@ -1,2 +1,2 @@
 # Nipulsingal.github.io
-Hi there! I am computer science undergrad at USICT(IPU) Delhi and also a freelance website developer and a competitive programmer. My designs are based on latest trending features and are responsive.
+Hi there! I am a computer science undergrad at USICT(IPU) Delhi and also a freelance website developer and a competitive programmer. My designs are based on latest trending features and are responsive.
